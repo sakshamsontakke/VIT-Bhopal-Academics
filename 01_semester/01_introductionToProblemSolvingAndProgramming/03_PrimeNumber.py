@@ -10,4 +10,4 @@ while i <= n:
 if count > 2:
     print(f"the given number {n} is not a prime number")
 else:
-    print(f"the given number {n} is prime number")            
+    print(f"the given number {n} is prime number")            -
