@@ -1,7 +1,8 @@
 import calculatorModule
 
-num1 = int(input("enter a number: "))
-num2 = int(input("enter a number: "))
+num1 = calculatorModule.myInput()
+num2 = calculatorModule.myInput()
+
 sum = calculatorModule.sum(num1 , num2)
 sub = calculatorModule.sub(num1 , num2)
 

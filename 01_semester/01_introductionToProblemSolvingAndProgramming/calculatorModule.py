@@ -13,6 +13,7 @@ def div(a , b):
     return c
 def myInput():
     n = int(input("enter a number: "))
+    return n
 
 
 
