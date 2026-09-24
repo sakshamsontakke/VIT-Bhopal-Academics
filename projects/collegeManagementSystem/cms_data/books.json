@@ -1,0 +1,122 @@
+[
+  {
+    "book_id": "BK-F97BC5FD",
+    "title": "Introduction to Algorithms",
+    "author": "Cormen et al.",
+    "isbn": "978-8536362096",
+    "total_copies": 5,
+    "available_copies": 5
+  },
+  {
+    "book_id": "BK-8F659119",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "978-6428683806",
+    "total_copies": 6,
+    "available_copies": 6
+  },
+  {
+    "book_id": "BK-DF31704F",
+    "title": "Operating System Concepts",
+    "author": "Silberschatz",
+    "isbn": "978-3620830901",
+    "total_copies": 5,
+    "available_copies": 5
+  },
+  {
+    "book_id": "BK-98B5D38F",
+    "title": "Computer Networks",
+    "author": "Tanenbaum",
+    "isbn": "978-7730691538",
+    "total_copies": 5,
+    "available_copies": 5
+  },
+  {
+    "book_id": "BK-F5633E44",
+    "title": "Database System Concepts",
+    "author": "Silberschatz",
+    "isbn": "978-3485919884",
+    "total_copies": 4,
+    "available_copies": 4
+  },
+  {
+    "book_id": "BK-390393C3",
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Russell & Norvig",
+    "isbn": "978-6619311666",
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "book_id": "BK-D6A9DC88",
+    "title": "Design Patterns",
+    "author": "Gang of Four",
+    "isbn": "978-4045450305",
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "book_id": "BK-405D99CC",
+    "title": "The Pragmatic Programmer",
+    "author": "Hunt & Thomas",
+    "isbn": "978-8117219659",
+    "total_copies": 4,
+    "available_copies": 4
+  },
+  {
+    "book_id": "BK-42D54ED7",
+    "title": "Physics for Engineers",
+    "author": "Serway",
+    "isbn": "978-4839573821",
+    "total_copies": 5,
+    "available_copies": 5
+  },
+  {
+    "book_id": "BK-BFC49362",
+    "title": "Engineering Mathematics",
+    "author": "B.S. Grewal",
+    "isbn": "978-2525096108",
+    "total_copies": 5,
+    "available_copies": 5
+  },
+  {
+    "book_id": "BK-74A3B7D0",
+    "title": "Digital Logic Design",
+    "author": "Morris Mano",
+    "isbn": "978-9433052926",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "BK-2A5AC2AA",
+    "title": "Compilers: Principles and Techniques",
+    "author": "Aho et al.",
+    "isbn": "978-4342173830",
+    "total_copies": 4,
+    "available_copies": 4
+  },
+  {
+    "book_id": "BK-8501E33E",
+    "title": "Computer Organization",
+    "author": "Hamacher",
+    "isbn": "978-5428280070",
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "book_id": "BK-1D4CB930",
+    "title": "Software Engineering",
+    "author": "Sommerville",
+    "isbn": "978-1343644600",
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "book_id": "BK-C7EA1742",
+    "title": "Data Communications",
+    "author": "Forouzan",
+    "isbn": "978-4136483795",
+    "total_copies": 2,
+    "available_copies": 2
+  }
+]

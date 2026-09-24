@@ -1,0 +1,12 @@
+[
+  {
+    "person_id": "ADMIN-0001",
+    "name": "System Administrator",
+    "dob": "1980-01-01",
+    "gender": "Other",
+    "email": "admin@college.edu.in",
+    "phone": "9000000000",
+    "address": "Admin Block",
+    "admin_level": "Super Admin"
+  }
+]

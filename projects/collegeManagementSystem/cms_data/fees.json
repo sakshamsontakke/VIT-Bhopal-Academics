@@ -1,0 +1,92 @@
+[
+  {
+    "student_id": "STU-D8353E7C",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 0
+  },
+  {
+    "student_id": "STU-26952285",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 0
+  },
+  {
+    "student_id": "STU-CF7664B4",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 0
+  },
+  {
+    "student_id": "STU-73B0F2FB",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 50000
+  },
+  {
+    "student_id": "STU-D15720D1",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 50000
+  },
+  {
+    "student_id": "STU-DCF58428",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 50000
+  },
+  {
+    "student_id": "STU-03F52AE3",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 0
+  },
+  {
+    "student_id": "STU-8A26C868",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 0
+  },
+  {
+    "student_id": "STU-CA255858",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 230000
+  },
+  {
+    "student_id": "STU-63801220",
+    "tuition_fee": 150000,
+    "hostel_fee": 60000,
+    "transport_fee": 15000,
+    "library_fine": 0,
+    "other_charges": 5000,
+    "paid_amount": 50000
+  }
+]

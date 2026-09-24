@@ -1,0 +1,212 @@
+[
+  {
+    "exam_id": "EXM-AB4159D8",
+    "course_code": "CSE1001",
+    "exam_type": "CAT-1",
+    "date": "2026-11-07",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-159FE74A",
+    "course_code": "CSE1001",
+    "exam_type": "CAT-2",
+    "date": "2026-10-05",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-748F71CD",
+    "course_code": "CSE1001",
+    "exam_type": "FAT",
+    "date": "2026-11-21",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-5B2B0140",
+    "course_code": "CSE1002",
+    "exam_type": "CAT-1",
+    "date": "2026-10-19",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-F7ED59C5",
+    "course_code": "CSE1002",
+    "exam_type": "CAT-2",
+    "date": "2026-10-23",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-6102F209",
+    "course_code": "CSE1002",
+    "exam_type": "FAT",
+    "date": "2026-11-10",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-39A1B815",
+    "course_code": "MAT1001",
+    "exam_type": "CAT-1",
+    "date": "2026-09-25",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-5E9EC7DB",
+    "course_code": "MAT1001",
+    "exam_type": "CAT-2",
+    "date": "2026-10-08",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-056148EC",
+    "course_code": "MAT1001",
+    "exam_type": "FAT",
+    "date": "2026-11-10",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-5305C7E6",
+    "course_code": "PHY1001",
+    "exam_type": "CAT-1",
+    "date": "2026-10-25",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-9BB9EBB7",
+    "course_code": "PHY1001",
+    "exam_type": "CAT-2",
+    "date": "2026-11-05",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-9BE2A40D",
+    "course_code": "PHY1001",
+    "exam_type": "FAT",
+    "date": "2026-10-28",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-89DCA45A",
+    "course_code": "CHY1001",
+    "exam_type": "CAT-1",
+    "date": "2026-11-08",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-81F20D21",
+    "course_code": "CHY1001",
+    "exam_type": "CAT-2",
+    "date": "2026-10-04",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-56881678",
+    "course_code": "CHY1001",
+    "exam_type": "FAT",
+    "date": "2026-10-10",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-5D1E88B4",
+    "course_code": "ENG1001",
+    "exam_type": "CAT-1",
+    "date": "2026-09-26",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-C1C76027",
+    "course_code": "ENG1001",
+    "exam_type": "CAT-2",
+    "date": "2026-10-18",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-DFE34C17",
+    "course_code": "ENG1001",
+    "exam_type": "FAT",
+    "date": "2026-11-13",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-B3CB4976",
+    "course_code": "EVS1001",
+    "exam_type": "CAT-1",
+    "date": "2026-11-14",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-8D19CE27",
+    "course_code": "EVS1001",
+    "exam_type": "CAT-2",
+    "date": "2026-11-13",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-DE2FE11A",
+    "course_code": "EVS1001",
+    "exam_type": "FAT",
+    "date": "2026-11-19",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-A1EACCDE",
+    "course_code": "CSE2001",
+    "exam_type": "CAT-1",
+    "date": "2026-10-26",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-E24422E4",
+    "course_code": "CSE2001",
+    "exam_type": "CAT-2",
+    "date": "2026-09-29",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-ED9A3C10",
+    "course_code": "CSE2001",
+    "exam_type": "FAT",
+    "date": "2026-11-20",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-BD0D51CF",
+    "course_code": "CSE2002",
+    "exam_type": "CAT-1",
+    "date": "2026-11-04",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-F1AE47F4",
+    "course_code": "CSE2002",
+    "exam_type": "CAT-2",
+    "date": "2026-09-26",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-8C670AA1",
+    "course_code": "CSE2002",
+    "exam_type": "FAT",
+    "date": "2026-10-02",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-5A57D574",
+    "course_code": "CSE2003",
+    "exam_type": "CAT-1",
+    "date": "2026-11-22",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-C9A74007",
+    "course_code": "CSE2003",
+    "exam_type": "CAT-2",
+    "date": "2026-10-30",
+    "max_marks": 100
+  },
+  {
+    "exam_id": "EXM-3A092B9A",
+    "course_code": "CSE2003",
+    "exam_type": "FAT",
+    "date": "2026-10-21",
+    "max_marks": 100
+  }
+]

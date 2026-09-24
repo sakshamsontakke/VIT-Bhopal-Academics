@@ -1,0 +1,44 @@
+[
+  {
+    "route_id": "BUS-C2ACF3D7",
+    "bus_number": "KA-01-1001",
+    "route_name": "Whitefield Express",
+    "pickup_point": "Whitefield Express Stop",
+    "pickup_time": "07:30 AM",
+    "drop_time": "05:30 PM",
+    "fee": 15000,
+    "assigned_students": [
+      "STU-26952285",
+      "STU-D15720D1",
+      "STU-8A26C868"
+    ]
+  },
+  {
+    "route_id": "BUS-86B6D209",
+    "bus_number": "KA-01-1002",
+    "route_name": "Electronic City Link",
+    "pickup_point": "Electronic City Link Stop",
+    "pickup_time": "07:30 AM",
+    "drop_time": "05:30 PM",
+    "fee": 15000,
+    "assigned_students": [
+      "STU-CF7664B4",
+      "STU-DCF58428",
+      "STU-CA255858"
+    ]
+  },
+  {
+    "route_id": "BUS-A5628067",
+    "bus_number": "KA-01-1003",
+    "route_name": "Koramangala Shuttle",
+    "pickup_point": "Koramangala Shuttle Stop",
+    "pickup_time": "07:30 AM",
+    "drop_time": "05:30 PM",
+    "fee": 15000,
+    "assigned_students": [
+      "STU-73B0F2FB",
+      "STU-03F52AE3",
+      "STU-63801220"
+    ]
+  }
+]

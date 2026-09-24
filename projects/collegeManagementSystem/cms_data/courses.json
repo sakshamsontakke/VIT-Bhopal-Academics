@@ -1,0 +1,151 @@
+[
+  {
+    "course_code": "CSE1001",
+    "course_name": "Problem Solving and Programming",
+    "credits": 4,
+    "faculty_id": "FAC-6CDFCCB9",
+    "faculty_name": "Dr. Chatterjee",
+    "slot": "A1",
+    "room": "AB1-100",
+    "capacity": 5,
+    "registered_students": [
+      "STU-26952285",
+      "STU-D15720D1",
+      "STU-DCF58428",
+      "STU-CA255858",
+      "STU-63801220"
+    ]
+  },
+  {
+    "course_code": "CSE1002",
+    "course_name": "Data Structures and Algorithms",
+    "credits": 4,
+    "faculty_id": "FAC-D22AFA79",
+    "faculty_name": "Dr. Gupta",
+    "slot": "B1",
+    "room": "AB1-101",
+    "capacity": 3,
+    "registered_students": [
+      "STU-CF7664B4",
+      "STU-D15720D1",
+      "STU-DCF58428"
+    ]
+  },
+  {
+    "course_code": "MAT1001",
+    "course_name": "Calculus",
+    "credits": 3,
+    "faculty_id": "FAC-361A280C",
+    "faculty_name": "Dr. Khan",
+    "slot": "C1",
+    "room": "AB1-102",
+    "capacity": 6,
+    "registered_students": [
+      "STU-D8353E7C",
+      "STU-03F52AE3"
+    ]
+  },
+  {
+    "course_code": "PHY1001",
+    "course_name": "Engineering Physics",
+    "credits": 3,
+    "faculty_id": "FAC-A3290ED9",
+    "faculty_name": "Dr. Chatterjee",
+    "slot": "D1",
+    "room": "AB1-103",
+    "capacity": 4,
+    "registered_students": [
+      "STU-D8353E7C"
+    ]
+  },
+  {
+    "course_code": "CHY1001",
+    "course_name": "Engineering Chemistry",
+    "credits": 3,
+    "faculty_id": "FAC-F5D82182",
+    "faculty_name": "Dr. Khan",
+    "slot": "E1",
+    "room": "AB1-104",
+    "capacity": 6,
+    "registered_students": [
+      "STU-73B0F2FB",
+      "STU-8A26C868"
+    ]
+  },
+  {
+    "course_code": "ENG1001",
+    "course_name": "Effective Communication",
+    "credits": 2,
+    "faculty_id": "FAC-6CDFCCB9",
+    "faculty_name": "Dr. Chatterjee",
+    "slot": "F1",
+    "room": "AB1-105",
+    "capacity": 5,
+    "registered_students": [
+      "STU-26952285",
+      "STU-8A26C868"
+    ]
+  },
+  {
+    "course_code": "EVS1001",
+    "course_name": "Environmental Studies",
+    "credits": 2,
+    "faculty_id": "FAC-D22AFA79",
+    "faculty_name": "Dr. Gupta",
+    "slot": "G1",
+    "room": "AB1-106",
+    "capacity": 4,
+    "registered_students": [
+      "STU-CA255858",
+      "STU-63801220"
+    ]
+  },
+  {
+    "course_code": "CSE2001",
+    "course_name": "Object Oriented Programming",
+    "credits": 4,
+    "faculty_id": "FAC-361A280C",
+    "faculty_name": "Dr. Khan",
+    "slot": "A2",
+    "room": "AB1-107",
+    "capacity": 5,
+    "registered_students": [
+      "STU-CF7664B4",
+      "STU-73B0F2FB",
+      "STU-DCF58428",
+      "STU-8A26C868",
+      "STU-CA255858"
+    ]
+  },
+  {
+    "course_code": "CSE2002",
+    "course_name": "Database Systems",
+    "credits": 4,
+    "faculty_id": "FAC-A3290ED9",
+    "faculty_name": "Dr. Chatterjee",
+    "slot": "B2",
+    "room": "AB1-108",
+    "capacity": 6,
+    "registered_students": [
+      "STU-D8353E7C",
+      "STU-CF7664B4",
+      "STU-73B0F2FB",
+      "STU-03F52AE3",
+      "STU-63801220"
+    ]
+  },
+  {
+    "course_code": "CSE2003",
+    "course_name": "Computer Networks",
+    "credits": 3,
+    "faculty_id": "FAC-F5D82182",
+    "faculty_name": "Dr. Khan",
+    "slot": "C2",
+    "room": "AB1-109",
+    "capacity": 6,
+    "registered_students": [
+      "STU-26952285",
+      "STU-D15720D1"
+    ]
+  }
+]

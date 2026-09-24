@@ -1,0 +1,67 @@
+[
+  {
+    "person_id": "FAC-6CDFCCB9",
+    "name": "Dr. Chatterjee",
+    "dob": "1982-02-11",
+    "gender": "Male",
+    "email": "faculty01@college.edu.in",
+    "phone": "8581710327",
+    "address": "Faculty Quarters Block 1",
+    "employee_id": "EMP2001",
+    "school": "School of Computer Science",
+    "designation": "Assistant Professor",
+    "specialization": "VLSI Design"
+  },
+  {
+    "person_id": "FAC-D22AFA79",
+    "name": "Dr. Gupta",
+    "dob": "1980-06-12",
+    "gender": "Male",
+    "email": "faculty02@college.edu.in",
+    "phone": "8343138725",
+    "address": "Faculty Quarters Block 2",
+    "employee_id": "EMP2002",
+    "school": "School of Mechanical Engineering",
+    "designation": "Assistant Professor",
+    "specialization": "Data Structures"
+  },
+  {
+    "person_id": "FAC-361A280C",
+    "name": "Dr. Khan",
+    "dob": "1985-06-13",
+    "gender": "Female",
+    "email": "faculty03@college.edu.in",
+    "phone": "8497704690",
+    "address": "Faculty Quarters Block 3",
+    "employee_id": "EMP2003",
+    "school": "School of Electronics",
+    "designation": "Associate Professor",
+    "specialization": "Thermodynamics"
+  },
+  {
+    "person_id": "FAC-A3290ED9",
+    "name": "Dr. Chatterjee",
+    "dob": "1981-05-14",
+    "gender": "Female",
+    "email": "faculty04@college.edu.in",
+    "phone": "8998544662",
+    "address": "Faculty Quarters Block 4",
+    "employee_id": "EMP2004",
+    "school": "School of Computer Science",
+    "designation": "Professor",
+    "specialization": "Networks"
+  },
+  {
+    "person_id": "FAC-F5D82182",
+    "name": "Dr. Khan",
+    "dob": "1983-02-15",
+    "gender": "Female",
+    "email": "faculty05@college.edu.in",
+    "phone": "8404584784",
+    "address": "Faculty Quarters Block 5",
+    "employee_id": "EMP2005",
+    "school": "School of Electronics",
+    "designation": "Assistant Professor",
+    "specialization": "Data Structures"
+  }
+]

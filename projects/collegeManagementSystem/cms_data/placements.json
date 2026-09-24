@@ -1,0 +1,23 @@
+[
+  {
+    "company_id": "CMP-BC208E83",
+    "company_name": "TechNova Solutions",
+    "role_title": "Software Engineer",
+    "min_cgpa": 7.0,
+    "package_lpa": 12
+  },
+  {
+    "company_id": "CMP-F23A3144",
+    "company_name": "DataForge Analytics",
+    "role_title": "Data Analyst",
+    "min_cgpa": 6.5,
+    "package_lpa": 9
+  },
+  {
+    "company_id": "CMP-E29B7EAD",
+    "company_name": "CoreStack Systems",
+    "role_title": "Backend Developer",
+    "min_cgpa": 7.5,
+    "package_lpa": 15
+  }
+]

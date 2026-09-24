@@ -1,0 +1,52 @@
+[
+  {
+    "room_id": "RM-8B5C4440",
+    "block": "A",
+    "room_no": "101",
+    "room_type": "Double",
+    "capacity": 2,
+    "occupants": [
+      "STU-D8353E7C"
+    ]
+  },
+  {
+    "room_id": "RM-F6424ADD",
+    "block": "C",
+    "room_no": "102",
+    "room_type": "Triple",
+    "capacity": 2,
+    "occupants": [
+      "STU-26952285"
+    ]
+  },
+  {
+    "room_id": "RM-89AA48F5",
+    "block": "A",
+    "room_no": "103",
+    "room_type": "Double",
+    "capacity": 1,
+    "occupants": [
+      "STU-CF7664B4"
+    ]
+  },
+  {
+    "room_id": "RM-B24AA12A",
+    "block": "B",
+    "room_no": "104",
+    "room_type": "Double",
+    "capacity": 2,
+    "occupants": [
+      "STU-73B0F2FB"
+    ]
+  },
+  {
+    "room_id": "RM-FA0B0DB2",
+    "block": "C",
+    "room_no": "105",
+    "room_type": "Single",
+    "capacity": 1,
+    "occupants": [
+      "STU-D15720D1"
+    ]
+  }
+]

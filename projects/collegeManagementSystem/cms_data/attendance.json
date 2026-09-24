@@ -1,0 +1,2032 @@
+[
+  {
+    "record_id": "ATT-A55515B0",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-24",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-47D1C08C",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-8B2DF58C",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-FB80AEC2",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-FF75074B",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-5EB2F203",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-24BEA318",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-FEC6B552",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-4D824EFE",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-7A6F56EF",
+    "course_code": "MAT1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-AACDABFB",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-98186D2B",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-50DAD361",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-998D59D0",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-386B6A08",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C8BE2DD1",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-19",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-BB360934",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-AFA6E477",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-17",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-2EE8F919",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-88BDCD40",
+    "course_code": "CSE2002",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F95C25F7",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-24",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-9B515FAA",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-6E93D4FD",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E1E01E3F",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-1383C38B",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-AF60B8F0",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-DA5750CB",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-3578F2F5",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-17",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-1EA84213",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E9CF90F0",
+    "course_code": "PHY1001",
+    "student_id": "STU-D8353E7C",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-4729B7D8",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-47A5D556",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B28D07A0",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-94E9E7F5",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-090BBC75",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-9913B0FF",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-19",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-EDF74942",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-02432F9C",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-ECB17220",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-16",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-006A9361",
+    "course_code": "CSE2003",
+    "student_id": "STU-26952285",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-803A6E4D",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-DBDE6339",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-DB0EF62C",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-AD518A0E",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-A975B413",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-51214168",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-8B0715DB",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-18",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-C99A0194",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-2AD6C24F",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-16",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-3354DB2D",
+    "course_code": "CSE1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-FAAC95D8",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-BD94360E",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-23",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-D192D591",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-DF5A555B",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-358C8AB8",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-4AAE2130",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-53210A8F",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-16982ECD",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-8AAAB082",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-A4D414BD",
+    "course_code": "ENG1001",
+    "student_id": "STU-26952285",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-CC128F92",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-24",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-64C620A6",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-AFADC0B9",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-22",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-587BD8F2",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B7CA1880",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-D9E6C534",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-1BB5E29A",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-48EBBA75",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-3971132B",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-53AAB1CB",
+    "course_code": "CSE1002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-48AC9E1B",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-654A6A00",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-5B00103A",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-97852890",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E036932C",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-1AA81CAF",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-58D70739",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-4884810B",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-510F5FD3",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-7052290C",
+    "course_code": "CSE2002",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-64838A70",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C19010A0",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-23",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-4C7390FA",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-99C7F171",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-99CFD7C2",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F82A65C7",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-1C3ACA2D",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-BDBE78B9",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-17",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-72A11C26",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F440FDCA",
+    "course_code": "CSE2001",
+    "student_id": "STU-CF7664B4",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-46F72AB3",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-748CBA67",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-23",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-C88B017D",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F97EA215",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-632793EA",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-423F05C1",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-1B9339B9",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-09F8A42B",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-2F381F4D",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-211E0D70",
+    "course_code": "CSE2002",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-FEE47768",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-24",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-0BFCDD56",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F4EA7C66",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C804992E",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-ACF9CFCD",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-D3B88D01",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-093B838C",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E7873CF8",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C86AF3C1",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-A7FBA7A4",
+    "course_code": "CSE2001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B5597ADE",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-24",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-F33C4A42",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-0896F05A",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C3FF1A77",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-9D224562",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-BD573A70",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-AD0E3E63",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-932DE974",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-17",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-690ACB7C",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-2C3F4384",
+    "course_code": "CHY1001",
+    "student_id": "STU-73B0F2FB",
+    "date": "2026-09-15",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-4437F26E",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F85CF152",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-62C99048",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-3CB304C8",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-8F165120",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-CE0C7F7E",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B9F1E001",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-BC86E1D8",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-17",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-A29A754B",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-6CCB3839",
+    "course_code": "CSE1002",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-4B941FF2",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-6C42D373",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-7E949564",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E8DE1DC2",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-21",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-C4CF7B02",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F2F69053",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B61CBD2A",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E2FEE758",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-98ED691D",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-16",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-727AB376",
+    "course_code": "CSE1001",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B1A33A5E",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-9777EB59",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-23",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-4357B56C",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-22",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-FAF3E754",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-2785B85F",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-60306D6B",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-960BF234",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-18",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-3439DF87",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-591C7384",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-DEA928C5",
+    "course_code": "CSE2003",
+    "student_id": "STU-D15720D1",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-0C6389C5",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-22632500",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C242E347",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C80AA00D",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B0024BDA",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-20",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-AF54B485",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-6B0DCC94",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-18",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-66D1484F",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B001C9B6",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-16",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-6CFC253B",
+    "course_code": "CSE2001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C7A1ECCB",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C47DB019",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F6EA0BFF",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-083C2955",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-311D28E6",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B9E1BAF1",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-19",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-87E6C3FA",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-637B6AF8",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-1F8392AB",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-D49CE536",
+    "course_code": "CSE1002",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-D7E46372",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-D07FF9B6",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-23",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-DAD5CA9D",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-A622414A",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-88A6C826",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E78A0D33",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F97FFD17",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F1495BAA",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-17",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-57D09C59",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-9170E1D8",
+    "course_code": "CSE1001",
+    "student_id": "STU-DCF58428",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-FAA8FF39",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-24",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-15BCA072",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-1749064F",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E061908F",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-2A375549",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-7FECCF15",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-1E39DA4C",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-65102969",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B345578C",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-524BF1BE",
+    "course_code": "CSE2002",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-36FF532F",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-987D55F8",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-57E98170",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-22",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-EB2326D5",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-951B9534",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-FFF7549F",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-3A199FC6",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-5395120A",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-505E6DB5",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-D6B455F3",
+    "course_code": "MAT1001",
+    "student_id": "STU-03F52AE3",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-3A325D58",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-DA23D1CE",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-5A52EFF2",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-438EC78C",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-826DCA93",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-021B270B",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-19",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-AAB5F465",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-A6907647",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-DDF93676",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-7A48BD37",
+    "course_code": "ENG1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-7959B1F5",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-A069C563",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C2DEF01B",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-7F7330DD",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F2DDD7C1",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F58C3136",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-BEF0ABDF",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-3CB9A3D5",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-376EB9AE",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-16",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-7237AD2D",
+    "course_code": "CHY1001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-ECDA4644",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-6A064DD8",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-755DA1E1",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-AE7FF99D",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C9DB93DE",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-22A456CC",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-19",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-1755E00E",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-18",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-2496B960",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E2BA98A6",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-16",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-6504DD56",
+    "course_code": "CSE2001",
+    "student_id": "STU-8A26C868",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-A8E473D9",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-24",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-EA83D5C8",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-24A7CACA",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-2A62CEC8",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-21",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-DC940E1B",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-68F1AE56",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-19",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-B3D4F987",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-18",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-84FEDBC4",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-31AA01F5",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-F7B8F75B",
+    "course_code": "CSE1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-D2375A2C",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B882788D",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-23",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-3003275D",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-20BB18E4",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-21",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-75FE3DEB",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-81647631",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-9701F10B",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-AAF70A08",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-47B8FA6E",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-E491CBD3",
+    "course_code": "EVS1001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-82B227C5",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-5891D9AA",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-854046AA",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-FE9AA304",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-518A152E",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-20",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-1D5AB8C7",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-FE390110",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-A4DE24C0",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-633CD8CE",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-16",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-1BA641E3",
+    "course_code": "CSE2001",
+    "student_id": "STU-CA255858",
+    "date": "2026-09-15",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-EF6BCA95",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-24",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-9AF54750",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-8E63E9E0",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-67ABD55D",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-21",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-D2A8C32F",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-24B5EC3C",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-046E02E5",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C1E443F0",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-3A7CE3F2",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-16",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-D49D0A54",
+    "course_code": "CSE2002",
+    "student_id": "STU-63801220",
+    "date": "2026-09-15",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-1DD5CFAD",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-0799E296",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-ACB20C63",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-822BFB4D",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-21",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-4A4B2DFE",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-44BF3A35",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-19",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-27BB835C",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B9248EEB",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-4893BDAF",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-16",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-805252BF",
+    "course_code": "CSE1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-15",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-36DBFD0E",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-24",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-17867BFD",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-23",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-DF6DBB8D",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-22",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-C674733C",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-21",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-85B26AFD",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-20",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-B2761C3B",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-19",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-7D1A518A",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-18",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-6794E718",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-17",
+    "status": "Present"
+  },
+  {
+    "record_id": "ATT-9C66F041",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-16",
+    "status": "Absent"
+  },
+  {
+    "record_id": "ATT-9768B00A",
+    "course_code": "EVS1001",
+    "student_id": "STU-63801220",
+    "date": "2026-09-15",
+    "status": "Present"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "club_id": "CLB-79650A05",
+    "club_name": "Coding Club",
+    "members": [
+      "STU-DCF58428",
+      "STU-D8353E7C"
+    ],
+    "events": [
+      {
+        "event_id": "EVT-A09A49DF",
+        "event_name": "Coding Club Annual Meet",
+        "date": "2026-11-03"
+      }
+    ]
+  },
+  {
+    "club_id": "CLB-9D62BDE0",
+    "club_name": "Robotics Club",
+    "members": [
+      "STU-73B0F2FB",
+      "STU-63801220"
+    ],
+    "events": [
+      {
+        "event_id": "EVT-4A74D766",
+        "event_name": "Robotics Club Annual Meet",
+        "date": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "club_id": "CLB-C76993E4",
+    "club_name": "Music Club",
+    "members": [
+      "STU-D8353E7C",
+      "STU-26952285"
+    ],
+    "events": [
+      {
+        "event_id": "EVT-1D412B9A",
+        "event_name": "Music Club Annual Meet",
+        "date": "2026-12-15"
+      }
+    ]
+  },
+  {
+    "club_id": "CLB-4CAE0A30",
+    "club_name": "Dramatics Club",
+    "members": [
+      "STU-73B0F2FB",
+      "STU-8A26C868",
+      "STU-03F52AE3"
+    ],
+    "events": [
+      {
+        "event_id": "EVT-85BB05CF",
+        "event_name": "Dramatics Club Annual Meet",
+        "date": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "club_id": "CLB-C5392EC9",
+    "club_name": "Entrepreneurship Cell",
+    "members": [
+      "STU-26952285",
+      "STU-DCF58428",
+      "STU-D8353E7C"
+    ],
+    "events": [
+      {
+        "event_id": "EVT-F03DD878",
+        "event_name": "Entrepreneurship Cell Annual Meet",
+        "date": "2026-12-16"
+      }
+    ]
+  }
+]

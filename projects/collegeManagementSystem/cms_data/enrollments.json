@@ -1,0 +1,205 @@
+[
+  {
+    "enrollment_id": "ENR-F4549B76",
+    "student_id": "STU-D8353E7C",
+    "course_code": "MAT1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-D500EA18",
+    "student_id": "STU-D8353E7C",
+    "course_code": "CSE2002",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-C5B3B514",
+    "student_id": "STU-D8353E7C",
+    "course_code": "PHY1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-B9BF0838",
+    "student_id": "STU-26952285",
+    "course_code": "CSE2003",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-9C9FC853",
+    "student_id": "STU-26952285",
+    "course_code": "CSE1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-7F936668",
+    "student_id": "STU-26952285",
+    "course_code": "ENG1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-0E3B2A23",
+    "student_id": "STU-CF7664B4",
+    "course_code": "CSE1002",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-A36D7FF7",
+    "student_id": "STU-CF7664B4",
+    "course_code": "CSE2002",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-58BA0CF4",
+    "student_id": "STU-CF7664B4",
+    "course_code": "CSE2001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-410DAD79",
+    "student_id": "STU-73B0F2FB",
+    "course_code": "CSE2002",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-F2240084",
+    "student_id": "STU-73B0F2FB",
+    "course_code": "CSE2001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-3F3BC366",
+    "student_id": "STU-73B0F2FB",
+    "course_code": "CHY1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-A579BF28",
+    "student_id": "STU-D15720D1",
+    "course_code": "CSE1002",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-C6B91726",
+    "student_id": "STU-D15720D1",
+    "course_code": "CSE1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-EEA893B3",
+    "student_id": "STU-D15720D1",
+    "course_code": "CSE2003",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-F209F5A7",
+    "student_id": "STU-DCF58428",
+    "course_code": "CSE2001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-A02F5EE5",
+    "student_id": "STU-DCF58428",
+    "course_code": "CSE1002",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-F25523AC",
+    "student_id": "STU-DCF58428",
+    "course_code": "CSE1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-1995D79C",
+    "student_id": "STU-03F52AE3",
+    "course_code": "CSE2002",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-81A8CB51",
+    "student_id": "STU-03F52AE3",
+    "course_code": "MAT1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-1BCE1D4A",
+    "student_id": "STU-8A26C868",
+    "course_code": "ENG1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-C01B8AA9",
+    "student_id": "STU-8A26C868",
+    "course_code": "CHY1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-9BFB3F28",
+    "student_id": "STU-8A26C868",
+    "course_code": "CSE2001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-230F52A4",
+    "student_id": "STU-CA255858",
+    "course_code": "CSE1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-2FEFB175",
+    "student_id": "STU-CA255858",
+    "course_code": "EVS1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-2AFC890F",
+    "student_id": "STU-CA255858",
+    "course_code": "CSE2001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-1C0E2137",
+    "student_id": "STU-63801220",
+    "course_code": "CSE2002",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-4EE5EA5C",
+    "student_id": "STU-63801220",
+    "course_code": "CSE1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  },
+  {
+    "enrollment_id": "ENR-57D8DCE5",
+    "student_id": "STU-63801220",
+    "course_code": "EVS1001",
+    "registered_on": "2026-09-24",
+    "status": "REGISTERED"
+  }
+]

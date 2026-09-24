@@ -1,0 +1,98 @@
+[
+  {
+    "username": "faculty01",
+    "password": "faculty123",
+    "role": "Faculty",
+    "linked_id": "FAC-6CDFCCB9"
+  },
+  {
+    "username": "faculty02",
+    "password": "faculty123",
+    "role": "Faculty",
+    "linked_id": "FAC-D22AFA79"
+  },
+  {
+    "username": "faculty03",
+    "password": "faculty123",
+    "role": "Faculty",
+    "linked_id": "FAC-361A280C"
+  },
+  {
+    "username": "faculty04",
+    "password": "faculty123",
+    "role": "Faculty",
+    "linked_id": "FAC-A3290ED9"
+  },
+  {
+    "username": "faculty05",
+    "password": "faculty123",
+    "role": "Faculty",
+    "linked_id": "FAC-F5D82182"
+  },
+  {
+    "username": "saksham sontakke",
+    "password": "1234",
+    "role": "Student",
+    "linked_id": "STU-D8353E7C"
+  },
+  {
+    "username": "student02",
+    "password": "student123",
+    "role": "Student",
+    "linked_id": "STU-26952285"
+  },
+  {
+    "username": "student03",
+    "password": "student123",
+    "role": "Student",
+    "linked_id": "STU-CF7664B4"
+  },
+  {
+    "username": "student04",
+    "password": "student123",
+    "role": "Student",
+    "linked_id": "STU-73B0F2FB"
+  },
+  {
+    "username": "student05",
+    "password": "student123",
+    "role": "Student",
+    "linked_id": "STU-D15720D1"
+  },
+  {
+    "username": "student06",
+    "password": "student123",
+    "role": "Student",
+    "linked_id": "STU-DCF58428"
+  },
+  {
+    "username": "student07",
+    "password": "student123",
+    "role": "Student",
+    "linked_id": "STU-03F52AE3"
+  },
+  {
+    "username": "student08",
+    "password": "student123",
+    "role": "Student",
+    "linked_id": "STU-8A26C868"
+  },
+  {
+    "username": "student09",
+    "password": "student123",
+    "role": "Student",
+    "linked_id": "STU-CA255858"
+  },
+  {
+    "username": "student10",
+    "password": "student123",
+    "role": "Student",
+    "linked_id": "STU-63801220"
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "Administrator",
+    "linked_id": "ADMIN-0001"
+  }
+]
